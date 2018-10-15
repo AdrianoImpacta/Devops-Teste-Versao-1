@@ -1,10 +1,12 @@
-Teste é um processo que faz parte do #desenvolvimento de software, e tem como principal objetivo revelar falhas/bugs para que sejam corrigidas até que o produto final atinja a qualidade desejada / acordada.
+Teste Ã© um processo que faz parte do #desenvolvimento de software, e tem como principal objetivo revelar falhas/bugs para que sejam corrigidas atÃ© que o produto final atinja a qualidade desejada / acordada.
 
-Profissionais que trabalham com testes (denominados analistas de testes, técnicos de testes, homologador, ou simplesmente testes) estão habituados a realizar uma bateria de testes de diferentes naturezas e propósitos, envolvendo não apenas os testes funcionais da aplicação, mas diversas outras atividades como:
+Profissionais que trabalham com testes (denominados analistas de testes, tÃ©cnicos de testes, homologador, ou simplesmente testes) estÃ£o habituados a realizar uma bateria de testes de diferentes naturezas e propÃ³sitos, envolvendo nÃ£o apenas os testes funcionais da aplicaÃ§Ã£o, mas diversas outras atividades como:
 
-avaliação da especificação de requisitos,
-avaliação de projeto técnico,
-verificações em outros documentos,
+avaliaÃ§Ã£o da especificaÃ§Ã£o de requisitos,
+avaliaÃ§Ã£o de projeto tÃ©cnico,
+verificaÃ§Ãµes em outros documentos,
 testes de performance e capacidade,
-avaliação de interface,
+avaliaÃ§Ã£o de interface,
 dentre outros.
+
+Samuel JosÃ© 1801266
